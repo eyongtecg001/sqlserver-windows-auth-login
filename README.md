@@ -207,4 +207,4 @@ git push -u origin main
 
 ## 10. License & Contact
 **License:** MIT (recommended)  
-**Author:** *Your Name* — Add email / LinkedIn / portfolio link here  
+**Author:** *Deuidonne Daba Angoh Afa E.* — deuidonneangoh@outlook.com / www.linkedin.com/in/dieudonne-angoh-eyong
