@@ -1,4 +1,4 @@
-# SQL Server — Windows Authentication Login (Portfolio Project)
+# SQL Server — Windows Authentication Login
 
 ## 📌 Description
 Step-by-step guide to create and verify a Windows Authentication login in Microsoft SQL Server.  
